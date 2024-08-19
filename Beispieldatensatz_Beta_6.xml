@@ -34,13 +34,13 @@
 				</lido:titleSet>
 			</lido:titleWrap>
 			<lido:inscriptionsWrap>
-				<lido:inscriptions lido:type="http://vocab.getty.edu/aat/300028702">
+				<lido:inscriptions>
 					<lido:inscriptionTranscription xml:lang="lat">jo: battista de curtis faciebat</lido:inscriptionTranscription>
 					<lido:inscriptionDescription>
 						<lido:descriptiveNoteValue xml:lang="deu">In der Elfenbeinfüllung im Hauptportal</lido:descriptiveNoteValue>
 					</lido:inscriptionDescription>
 				</lido:inscriptions>
-				<lido:inscriptions lido:type="http://vocab.getty.edu/aat/300028702">
+				<lido:inscriptions>
 					<lido:inscriptionTranscription xml:lang="lat">iannuuarius picicaro fecit Anno 1597</lido:inscriptionTranscription>
 					<lido:inscriptionDescription>
 						<lido:descriptiveNoteValue xml:lang="deu">Am äußeren Rand der Weltkarte in der Schreibplatte</lido:descriptiveNoteValue>
