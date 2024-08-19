@@ -376,7 +376,8 @@
             </lido:object>
         </lido:relatedWork>
         <lido:relatedWorkRelType>
-            <lido:term>ist visuelles Zitat von</lido:term>
+            <lido:term xml:lang="deu">hat Bezug zu</lido:term>
+	    <lido:term xml:lang="eng">is related to</lido:term>	
         </lido:relatedWorkRelType>
     </lido:relatedWorkSet>
 	</lido:relatedWorksWrap>
