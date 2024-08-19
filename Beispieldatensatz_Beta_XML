@@ -12,7 +12,7 @@
 				</lido:objectWorkType>
 			</lido:objectWorkTypeWrap>
 			<lido:classificationWrap>
-				<lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
+				<lido:classification lido:type="http://terminology.lido-schema.org/lido00853"> <! - - Objektgattung - - >
 					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4039860-2</lido:conceptID>
 					<lido:term xml:lang="deu">Schrankmöbel</lido:term>
 				</lido:classification>
