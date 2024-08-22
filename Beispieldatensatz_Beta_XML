@@ -12,25 +12,24 @@
 				</lido:objectWorkType>
 			</lido:objectWorkTypeWrap>
 			<lido:classificationWrap>
-				<lido:classification lido:type="http://terminology.lido-schema.org/lido00853"> <! - - Objektgattung - - >
+				<lido:classification lido:type="http://terminology.lido-schema.org/lido00853"> <!-- Objektgattung -->
 					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4039860-2</lido:conceptID>
 					<lido:term xml:lang="deu">Schrankmöbel</lido:term>
 				</lido:classification>
-				<lido:classification lido:type="http://terminology.lido-schema.org/lido00932">
+				<lido:classification lido:type="http://terminology.lido-schema.org/lido00932"> <!-- Themenkategorie -->
 					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300054168</lido:conceptID>
 					<lido:term xml:lang="deu">angewandte Kunst</lido:term>
 					<lido:term xml:lang="eng">decorative arts (discipline)</lido:term>
 				</lido:classification>
-				<lido:classification lido:type="http://terminology.lido-schema.org/lido01135">
+				<lido:classification lido:type="http://terminology.lido-schema.org/lido01135"> <!-- lokale Klassifikation -->
 					<lido:term xml:lang="deu">Europäisches Kunsthandwerk und Skulptur</lido:term>
 				</lido:classification>
 			</lido:classificationWrap>
 		</lido:objectClassificationWrap>
 		<lido:objectIdentificationWrap>
 			<lido:titleWrap>
-				<lido:titleSet lido:type="http://vocab.getty.edu/aat/300417205">
+				<lido:titleSet lido:type="http://vocab.getty.edu/aat/300417205"> <!-- konstruierter Titel (aus Objekttyp + differenzierender Angabe, hier: Inventarnummer -->
 					<lido:appellationValue xml:lang="deu">Kabinettschrank, Inv. Nr.: 1977.20</lido:appellationValue>
-					<!-- Konstruierter Titel aus Objekttyp + einer zusätzlichen differenzierenden Angabe (hier: Inventarnummer) -->
 				</lido:titleSet>
 			</lido:titleWrap>
 			<lido:inscriptionsWrap>
@@ -48,7 +47,7 @@
 				</lido:inscriptions>
 			</lido:inscriptionsWrap>
 			<lido:repositoryWrap>
-				<lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+				<lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475"> <!-- Aktueller Bewahrungsort oder Standort -->
 					<lido:repositoryName>
 						<lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-059918</lido:legalBodyID>
 						<lido:legalBodyName>
@@ -56,8 +55,8 @@
 							<lido:appellationValue xml:lang="eng">Museum of Art and Design</lido:appellationValue>
 						</lido:legalBodyName>
 					</lido:repositoryName>
-					<lido:workID lido:type="http://terminology.lido-schema.org/lido00113">1977.20</lido:workID>
-					<lido:workID lido:type="http://vocab.getty.edu/aat/300404621">St. 330</lido:workID>
+					<lido:workID lido:type="http://terminology.lido-schema.org/lido00113">1977.20</lido:workID> <!-- Inventarnummer -->
+					<lido:workID lido:type="http://vocab.getty.edu/aat/300404621">St. 330</lido:workID> <!-- Repositoriumsnummer -->
 					<lido:repositoryLocation>
 						<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://sws.geonames.org/2911298/</lido:placeID>
 						<lido:namePlaceSet>
@@ -67,15 +66,14 @@
 				</lido:repositorySet>
 			</lido:repositoryWrap>
 			<lido:objectDescriptionWrap>
-				<lido:objectDescriptionSet lido:type="http://vocab.getty.edu/aat/300435416">
+				<lido:objectDescriptionSet lido:type="thttp://vocab.getty.edu/aat/300435416"> <!-- Erläuterung -->
 					<lido:descriptiveNoteValue xml:lang="deu">Die große Welt im kleinen Schrank: Die Fassadenarchitektur des Kabinettschranks findet ihr Vorbild im antiken Theaterbau. Mit seinem ausgeklügelten System von Fächern und Schubladen diente er zur Aufbewahrung von gesammelten Kostbarkeiten der Kunstkammer. Über seine Bestimmung zum funktionalen Möbel hinaus ist der Schrank selbst auch als Kunstwerk zu verstehen. Die Elfenbeintafeln zeigen ein umfangreiches Bildprogramm: die Gründer der vier großen Weltreiche des Altertums und die Taten des tugendhaften antiken Helden Herkules. Die ausziehbare Schreibplatte enthält eine drehbare Weltkarte, die auf die Habsburger verweist und vermuten lässt, dass das Kabinettmöbel für König Phillipp II. von Spanien angefertigt worden ist.</lido:descriptiveNoteValue>
 				</lido:objectDescriptionSet>
-				<lido:objectDescriptionSet lido:type="http://vocab.getty.edu/aat/300435438">
+				<lido:objectDescriptionSet lido:type="http://vocab.getty.edu/aat/300435438"> <!-- Provenienzangabe -->
 					<lido:descriptiveNoteValue xml:lang="deu">Sonderzuwendungen von Kurt A. Körber und Axel Springer; Eigentum der Stiftung Hamburger Kunstsammlungen</lido:descriptiveNoteValue>
 				</lido:objectDescriptionSet>
 			</lido:objectDescriptionWrap>
 			<lido:objectMeasurementsWrap>
-				<!--Bitte prüfen. So richtig? Ansonsten gibt der digiS-Validator eine Fehlermeldung aus-->
 				<lido:objectMeasurementsSet>
 					<lido:displayObjectMeasurements>Höhe x Breite x Tiefe: 106 x 101,1 x 60,9 cm</lido:displayObjectMeasurements>
 					<lido:objectMeasurements>
@@ -160,7 +158,6 @@
 						<lido:actorInRole>
 							<lido:actor>
 								<lido:actorID lido:type="http://terminology.lido-schema.org/lido00099">http://viaf.org/viaf/89840489</lido:actorID>
-								<!-- Kein Eintrag in der GND. Es wird keine Personenseite gebildet; die Crosskonkordanz wird nicht berücksichtigt -->
 								<lido:nameActorSet>
 									<lido:appellationValue>Picicaro, Januarius</lido:appellationValue>
 								</lido:nameActorSet>
@@ -181,17 +178,16 @@
 							<lido:latestDate>1605</lido:latestDate>
 						</lido:date>
 					</lido:eventDate>
-					<lido:periodName lido:type="http://terminology.lido-schema.org/lido00731">
+					<lido:periodName lido:type="http://terminology.lido-schema.org/lido00731"> <!-- Epoche -->
 						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4049450-0</lido:conceptID>
 						<lido:term xml:lang="deu">Renaissance</lido:term>
 						<lido:term xml:lang="eng">Renaissance</lido:term>
 					</lido:periodName>
-					<lido:periodName lido:type="http://terminology.lido-schema.org/lido00732">
+					<lido:periodName lido:type="http://terminology.lido-schema.org/lido00732"> <!-- Stil -->
 						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4004541-9</lido:conceptID>
 						<lido:term xml:lang="deu">Barock</lido:term>
 						<lido:term xml:lang="eng">Baroque</lido:term>
 					</lido:periodName>
-					<!--Würde man das so ausdrücken?-->
 					<lido:eventPlace>
 						<lido:place>
 							<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://sws.geonames.org/3172394/</lido:placeID>
@@ -203,23 +199,21 @@
 						</lido:place>
 					</lido:eventPlace>
 					<lido:eventMaterialsTech>
-						<!--Bitte prüfen. So richtig? Ansonsten gibt der digiS-Validator eine Fehlermeldung aus-->
 						<lido:displayMaterialsTech xml:lang="deu">Palisander, Ebenholz und Makassar-Ebenholz, Elfenbein (Material)</lido:displayMaterialsTech>
-				
 						<lido:materialsTech>
-							<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+							<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132"> <!-- Material -->
 								<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300375333</lido:conceptID>
 								<lido:term xml:lang="deu">Palisander</lido:term>
 								<lido:term xml:lang="eng">palisander (wood)</lido:term>
 							</lido:termMaterialsTech>
 						
-							<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+							<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132"> <!-- Material -->
 								<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/7697258-6</lido:conceptID>
 								<lido:term xml:lang="deu">Ebenholz</lido:term>
 								<lido:term xml:lang="eng">ebony</lido:term>
 							</lido:termMaterialsTech>
 
-							<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+							<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132"> <!-- Material -->
 								<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300011857</lido:conceptID>
 								<lido:term xml:lang="deu">Elfenbein (Material)</lido:term>
 								<lido:term xml:lang="eng">ivory (material)</lido:term>
@@ -230,7 +224,7 @@
 					<lido:eventMaterialsTech>
 					<lido:displayMaterialsTech xml:lang="deu">graviert (Technik)</lido:displayMaterialsTech>
 						<lido:materialsTech>
-							<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+							<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131"> <!-- Technik -->
 								<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300053829</lido:conceptID>
 								<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4191438-7</lido:conceptID>
 								<lido:term xml:lang="deu">Gravierung</lido:term>
@@ -247,7 +241,7 @@
 		<lido:objectRelationWrap>
 			<lido:subjectWrap>
 				<lido:subjectSet>
-					<lido:subject lido:type="http://terminology.lido-schema.org/lido00745">
+					<lido:subject lido:type="http://terminology.lido-schema.org/lido00745"> <!-- Iconclass-Notation -->
 						<!-- Gehört das wirklich in <subjectConcept>? -->
 						<lido:subjectConcept>
 							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://iconclass.org/94L</lido:conceptID>
@@ -258,7 +252,7 @@
 				</lido:subjectSet>
 				<lido:subjectSet>
 					<lido:displaySubject xml:lang="deu">Buch Daniel: Vier-Reiche-Lehre</lido:displaySubject>
-					<lido:subject lido:type="http://terminology.lido-schema.org/lido00524">
+					<lido:subject lido:type="http://terminology.lido-schema.org/lido00524"> <!-- Interpretation (Thema) -->
 						<lido:subjectConcept>
 							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/110164673X</lido:conceptID>
 							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q699242</lido:conceptID>
@@ -268,7 +262,7 @@
 					</lido:subject>
 				</lido:subjectSet>
 				<lido:subjectSet>
-					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136">
+					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136"> <!-- Identifikation (Thema) -->
 						<lido:subjectActor>
 							<lido:actor>
 								<lido:actorID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/133543463</lido:actorID>
@@ -280,7 +274,7 @@
 					</lido:subject>
 				</lido:subjectSet>
 				<lido:subjectSet>
-					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136">
+					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136"> <!-- Identifikation (Thema) -->
 						<lido:subjectActor>
 							<lido:actor>
 								<lido:actorID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/102405085</lido:actorID>
@@ -292,7 +286,7 @@
 					</lido:subject>
 				</lido:subjectSet>
 				<lido:subjectSet>
-					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136">
+					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136"> <!-- Identifikation (Thema) -->
 						<lido:subjectPlace>
 							<lido:place>
 								<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://sws.geonames.org/12489746/</lido:placeID>
@@ -307,7 +301,7 @@
 					</lido:subject>
 				</lido:subjectSet>
 				<lido:subjectSet>
-					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136">
+					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136"> <!-- Identifikation (Thema) -->
 						<lido:subjectPlace>
 							<lido:displayPlace xml:lang="deu">Persisches Reich</lido:displayPlace>
 							<lido:place>
@@ -322,7 +316,7 @@
 					</lido:subject>
 				</lido:subjectSet>
 				<lido:subjectSet>
-					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136">
+					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136"> <!-- Identifikation (Thema) -->
 						<lido:subjectPlace>
 							<lido:displayPlace xml:lang="deu">Griechisches Reich</lido:displayPlace>
 							<lido:place>
@@ -337,7 +331,7 @@
 					</lido:subject>
 				</lido:subjectSet>
 				<lido:subjectSet>
-					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136">
+					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136"> <!-- Identifikation (Thema) -->
 						<lido:subjectPlace>
 							<lido:place>
 								<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://sws.geonames.org/8354456/</lido:placeID>
@@ -352,7 +346,7 @@
 					</lido:subject>
 				</lido:subjectSet>
 				<lido:subjectSet>
-					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136">
+					<lido:subject lido:type="http://terminology.lido-schema.org/lido00136"> <!-- Identifikation (Thema) -->
 						<lido:subjectPlace>
 							<lido:displayPlace xml:lang="deu">Altes Rom</lido:displayPlace>
 							<lido:place>
@@ -376,6 +370,7 @@
             </lido:object>
         </lido:relatedWork>
         <lido:relatedWorkRelType>
+            <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00263</lido:conceptID>
             <lido:term xml:lang="deu">hat Bezug zu</lido:term>
 	    <lido:term xml:lang="eng">is related to</lido:term>	
         </lido:relatedWorkRelType>
@@ -419,19 +414,18 @@
 					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
 					<lido:term xml:lang="deu">CC0 1.0 Universell</lido:term>
 				</lido:rightsType>
-				<!-- Ohne rightsHolder, da gemeinfrei; würde aber ohnehin nicht ausgewertet-->
+				<!-- Ohne rightsHolder, da gemeinfrei -->
 			</lido:recordRights>
-			<lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00916">
+			<lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00916"> <!-- Online-Präsentation -->
 				<lido:recordInfoLink lido:formatResource="text/html" xml:lang="deu">http://sammlungonline.mkg-hamburg.de/de/object/Kabinettschrank/1977.20/dc00018494</lido:recordInfoLink>
 			</lido:recordInfoSet>
-			<lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00470">
+			<lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00470"> <!-- LIDO-Dokument -->
 				<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/lido00472">2021-01-30T15:44:49+01:00</lido:recordMetadataDate>
 			</lido:recordInfoSet>
-			<!-- Mit oder ohne recordMetadataDate?-->
 		</lido:recordWrap>
 		<lido:resourceWrap>
 			<lido:resourceSet lido:sortorder="1">
-				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464"> <!-- Lieferung Bild -->
 					<lido:linkResource lido:formatResource="image/jpeg">http://resources.digicult-museen.net/dam/provided_image/m5ea54539bef06</lido:linkResource>
 				</lido:resourceRepresentation>
 				<lido:resourceType>
@@ -453,7 +447,7 @@
 				</lido:rightsResource>
 			</lido:resourceSet>
 			<lido:resourceSet lido:sortorder="2">
-				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464"> <!-- Lieferung Bild -->
 					<lido:linkResource lido:formatResource="image/jpeg">http://resources.digicult-museen.net/dam/provided_image/m5ea5453a0926f</lido:linkResource>
 				</lido:resourceRepresentation>
 				<lido:resourceType>
@@ -473,7 +467,7 @@
 				</lido:rightsResource>
 			</lido:resourceSet>
 			<lido:resourceSet lido:sortorder="3">
-				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464"> <!-- Lieferung Bild -->
 					<lido:linkResource lido:formatResource="image/jpeg">http://resources.digicult-museen.net/dam/provided_image/m5ea5453a433bb</lido:linkResource>
 				</lido:resourceRepresentation>
 				<lido:resourceType>
