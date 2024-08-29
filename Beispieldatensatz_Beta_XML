@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
 <!-- Aus Gründen der Lesefreundlichkeit werden URI-Bedeutungen jeweils über Kommentare aufgelöst. Der Attributwert lido:type="http://terminology.lido-schema.org/lido00099" bedeutet "URI"; lido:type="http://terminology.lido-schema.org/lido00100" bedeutet "Lokaler Identifikator" -->
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
 	<lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-059918_dc00018494</lido:lidoRecID>
 	<lido:descriptiveMetadata xml:lang="deu">
 		<lido:objectClassificationWrap>
