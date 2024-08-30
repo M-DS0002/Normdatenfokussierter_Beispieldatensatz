@@ -68,7 +68,7 @@
 				</lido:repositorySet>
 			</lido:repositoryWrap>
 			<lido:objectDescriptionWrap>
-				<lido:objectDescriptionSet lido:type="thttp://vocab.getty.edu/aat/300435416"> <!-- Erläuterung -->
+				<lido:objectDescriptionSet lido:type="http://vocab.getty.edu/aat/300435416"> <!-- Erläuterung -->
 					<lido:descriptiveNoteValue xml:lang="deu">Die große Welt im kleinen Schrank: Die Fassadenarchitektur des Kabinettschranks findet ihr Vorbild im antiken Theaterbau. Mit seinem ausgeklügelten System von Fächern und Schubladen diente er zur Aufbewahrung von gesammelten Kostbarkeiten der Kunstkammer. Über seine Bestimmung zum funktionalen Möbel hinaus ist der Schrank selbst auch als Kunstwerk zu verstehen. Die Elfenbeintafeln zeigen ein umfangreiches Bildprogramm: die Gründer der vier großen Weltreiche des Altertums und die Taten des tugendhaften antiken Helden Herkules. Die ausziehbare Schreibplatte enthält eine drehbare Weltkarte, die auf die Habsburger verweist und vermuten lässt, dass das Kabinettmöbel für König Phillipp II. von Spanien angefertigt worden ist.</lido:descriptiveNoteValue>
 				</lido:objectDescriptionSet>
 				<lido:objectDescriptionSet lido:type="http://vocab.getty.edu/aat/300435438"> <!-- Provenienzangabe -->
