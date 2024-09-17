@@ -81,7 +81,7 @@
 					<lido:objectMeasurements>
 						<lido:measurementsSet>
 							<lido:measurementType xml:lang="deu">Höhe</lido:measurementType>
-							<lido:measurementType xml:lang="eng">hight</lido:measurementType>
+							<lido:measurementType xml:lang="eng">height</lido:measurementType>
 							<lido:measurementUnit>cm</lido:measurementUnit>
 							<lido:measurementValue>106</lido:measurementValue>
 						</lido:measurementsSet>
