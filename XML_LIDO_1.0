@@ -20,8 +20,8 @@
 				</lido:classification>
 				<lido:classification lido:type="http://terminology.lido-schema.org/lido00932"> <!-- Themenkategorie -->
 					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300054168</lido:conceptID>
-					<lido:term xml:lang="deu">Angewandte Kunst</lido:term>
-					<lido:term xml:lang="eng">Decorative arts (discipline)</lido:term>
+					<lido:term xml:lang="deu">angewandte Kunst</lido:term>
+					<lido:term xml:lang="eng">decorative arts (discipline)</lido:term>
 				</lido:classification>
 				<lido:classification lido:type="http://terminology.lido-schema.org/lido01135"> <!-- lokale Klassifikation -->
 					<lido:term xml:lang="deu">Europäisches Kunsthandwerk und Skulptur</lido:term>
