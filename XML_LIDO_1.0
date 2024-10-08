@@ -414,7 +414,7 @@
 			</lido:recordSource>
 			<lido:recordRights>
 				<lido:rightsType>
-					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
 					<lido:term xml:lang="deu">CC0 1.0 Universell</lido:term>
 				</lido:rightsType>
 				<lido:rightsHolder>
@@ -448,7 +448,7 @@
 				</lido:resourceSource>
 				<lido:rightsResource>
 					<lido:rightsType>
-						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
 						<lido:term xml:lang="deu">CC0 1.0 Universell</lido:term>
 					</lido:rightsType>
 					<lido:rightsHolder>
@@ -474,7 +474,7 @@
 				</lido:resourceSource>
 				<lido:rightsResource>
 					<lido:rightsType>
-						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
 						<lido:term xml:lang="deu">CC0 1.0 Universell</lido:term>
 					</lido:rightsType>
 					<lido:rightsHolder>
@@ -500,7 +500,7 @@
 				</lido:resourceSource>
 				<lido:rightsResource>
 					<lido:rightsType>
-						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
 						<lido:term xml:lang="deu">CC0 1.0 Universell</lido:term>
 					</lido:rightsType>
 					<lido:rightsHolder>
