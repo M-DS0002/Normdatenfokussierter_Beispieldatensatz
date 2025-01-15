@@ -437,6 +437,7 @@
 					<lido:linkResource lido:formatResource="image/jpeg">http://resources.digicult-museen.net/dam/provided_image/m5ea54539bef06</lido:linkResource>
 				</lido:resourceRepresentation>
 				<lido:resourceType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://ddb.vocnet.org/medientyp/mt002</lido:conceptID>
 					<lido:term xml:lang="deu">Bild</lido:term>
 					<lido:term xml:lang="eng">image</lido:term>
 				</lido:resourceType>
@@ -464,6 +465,7 @@
 					<lido:linkResource lido:formatResource="image/jpeg">http://resources.digicult-museen.net/dam/provided_image/m5ea5453a0926f</lido:linkResource>
 				</lido:resourceRepresentation>
 				<lido:resourceType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://ddb.vocnet.org/medientyp/mt002</lido:conceptID>
 					<lido:term xml:lang="deu">Bild</lido:term>
 					<lido:term xml:lang="eng">image</lido:term>
 				</lido:resourceType>
@@ -490,6 +492,7 @@
 					<lido:linkResource lido:formatResource="image/jpeg">http://resources.digicult-museen.net/dam/provided_image/m5ea5453a433bb</lido:linkResource>
 				</lido:resourceRepresentation>
 				<lido:resourceType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://ddb.vocnet.org/medientyp/mt002</lido:conceptID>
 					<lido:term xml:lang="deu">Bild</lido:term>
 					<lido:term xml:lang="eng">image</lido:term>
 				</lido:resourceType>
