@@ -245,7 +245,6 @@
 			<lido:subjectWrap>
 				<lido:subjectSet>
 					<lido:subject lido:type="http://terminology.lido-schema.org/lido00745"> <!-- Iconclass-Notation -->
-						<!-- Gehört das wirklich in <subjectConcept>? -->
 						<lido:subjectConcept>
 							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://iconclass.org/94L</lido:conceptID>
 							<lido:term xml:lang="deu">Geschichte von Hercules (Herakles)</lido:term>
